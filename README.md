@@ -25,7 +25,7 @@ A scalable Java-based task management system built using **Spring, JSP, and Serv
 ---
 ## ⚙️ Installation & Setup
 
-- 1. Clone the repository: git clone https://github.com/your-username/SmartTaskManager.git
+- 1.Clone the repository: git clone https://github.com/your-username/SmartTaskManager.git
 - 2.Open in IDE (IntelliJ / Eclipse)
 - 3.Configure server: Apache Tomcat (recommended)
 - 4.Build & run the project: Deploy on Tomcat server
